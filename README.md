@@ -4,9 +4,3 @@
 # AI Security Masterclass – 16 Weeks to Founder
 
 I'm dedicating 3–4 hours daily for 16 weeks to go from zero to Generative AI Security expert and build a hybrid company (consulting + SaaS).
-
-## Progress
-- [x] Week 1: Python Essentials (in progress)
-  - [x] Day 1: CVSS severity calculator
-  - [ ] Day 2: Access control logic
-  ...
