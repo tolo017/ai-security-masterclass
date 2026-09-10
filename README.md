@@ -12,3 +12,4 @@ I'm dedicating 3–4 hours daily for 16 weeks to go from zero to Generative AI S
 - [x] Day 1: CVSS severity calculator
 - [x] Day 2: Access control simulator
 - [x] Day 3: Password auditor & brute-force simulator
+- [x] Day 4: IP reputation checker
