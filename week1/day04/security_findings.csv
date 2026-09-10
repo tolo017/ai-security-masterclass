@@ -1,0 +1,2 @@
+prompt,length,injection_indicator,system_prompt_indicator,risk_score,decision
+Tell me about JSON.,19,False,False,0,ALLOW

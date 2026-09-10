@@ -1,0 +1,5 @@
+LOGIN_SUCCESS user=alice
+PROMPT_SCAN user=alice risk=10 decision=ALLOW
+PROMPT_SCAN user=bob risk=70 decision=BLOCK
+LOGIN_SUCCESS user=charlie
+PROMPT_SCAN user=charlie risk=25 decision=REVIEW

@@ -1,0 +1,10 @@
+[
+    {
+        "prompt": "Tell me about JSON.",
+        "length": 19,
+        "injection_indicator": false,
+        "system_prompt_indicator": false,
+        "risk_score": 0,
+        "decision": "ALLOW"
+    }
+]

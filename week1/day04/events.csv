@@ -1,0 +1,4 @@
+user,risk_score,decision
+alice,10,ALLOW
+bob,70,BLOCK
+charlie,25,REVIEW

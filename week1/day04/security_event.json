@@ -1,0 +1,17 @@
+[
+    {
+        "user": "alice",
+        "risk_score": 10,
+        "decision": "ALLOW"
+    },
+    {
+        "user": "bob",
+        "risk_score": 70,
+        "decision": "BLOCK"
+    },
+    {
+        "user": "charlie",
+        "risk_score": 25,
+        "decision": "REVIEW"
+    }
+]
