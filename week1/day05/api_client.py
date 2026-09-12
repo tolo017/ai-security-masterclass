@@ -1,14 +1,16 @@
 import requests
 
-payload = {
-    "prompt": "Explain Python loops",
-    "risk_level": "low"
-}
+try:
 
-response = requests.post(
-    "https://httpbin.org/post",
-    json=payload
-)
+    response = requests.get(
+        "https://httpbin.org/get",
+        timeout=10
+    )
 
-print(response.status_code)
-print(response.json())
+    response.raise_for_status()
+
+    print(response.json())
+
+except requests.exceptions.RequestException as error:
+
+    print(f"Request failed: {error}")

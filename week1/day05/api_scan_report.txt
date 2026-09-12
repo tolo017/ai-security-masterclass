@@ -1,0 +1,10 @@
+AI SECURITY API SCAN
+--------------------
+
+Total prompts: 5
+Allowed: 3
+Review: 1
+Blocked: 1
+
+HTTP failures: 0
+Highest risk: 70
