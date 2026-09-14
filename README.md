@@ -14,4 +14,5 @@ I'm dedicating 3–4 hours daily for 16 weeks to go from zero to Generative AI S
   - [x] Day 3: Password auditor & brute-force simulator
   - [x] Day 4: IP reputation checker
   - [x] Day 5: Security awareness quiz (mini-project)
-- [ ] Week 2: Data Structures & Core Logic
+- [ ] **Week 2: Data Structures & Core Logic**
+  - [x] Day 1: Asset list manager (lists)
