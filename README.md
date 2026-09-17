@@ -16,8 +16,6 @@ I'm dedicating 3–4 hours daily for 16 weeks to go from zero to Generative AI S
   - [x] Day 5: Security awareness quiz (mini-project)
 - [ ] **Week 2: Data Structures & Core Logic**
   - [x] Day 1: Asset list manager (lists)
-  - [ ] **Week 2: Data Structures & Core Logic**
-  - [x] Day 1: Asset list manager (lists)
   - [x] Day 2: Vulnerability registry (dictionaries)
   - [x] Day 3: Indicator comparator (tuples & sets)
   - [ ] Day 4: Log frequency counter (algorithms)
